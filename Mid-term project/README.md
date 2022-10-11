@@ -8,8 +8,12 @@ Students — working in groups — are supposed:
 
 3. to use Python:
 
-i. to analyze and plot the degree distribution of the network
-ii. to plot the network
-iii. to produce descriptive statistics about relevant node-level properties (e.g., betweeness centrality)
-iv. to asssess how and to what extent the network shows a modular structure (e.g., a community or core-periphery structure)
-v. to assess the consequences of the modular structure for the individual nodes, the individual communities, and/or the functioning of the network. For example, one may want to correlate the network position of an individual (core Vs. periphery) with her attitudes, behavior, preferences.
+  i. to analyze and plot the degree distribution of the network
+  
+  ii. to plot the network
+  
+  iii. to produce descriptive statistics about relevant node-level properties (e.g., betweeness centrality)
+  
+  iv. to asssess how and to what extent the network shows a modular structure (e.g., a community or core-periphery structure)
+  
+  v. to assess the consequences of the modular structure for the individual nodes, the individual communities, and/or the functioning of the network. For example, one may want to correlate the network position of an individual (core Vs. periphery) with her attitudes, behavior, preferences.
